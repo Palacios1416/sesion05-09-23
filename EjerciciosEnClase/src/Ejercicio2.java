@@ -10,7 +10,7 @@ public class Ejercicio2 {
         System.out.println("TRIANGULO");
         System.out.println("Inserte la longitud del primer lado: ");
         do {
-        lado1 = scanner.nextDouble();    
+        lado1 = scanner.nextDouble();
         } while (lado1 <= 0);
         
         System.out.println("Inserte la longitud del segundo lado: ");
